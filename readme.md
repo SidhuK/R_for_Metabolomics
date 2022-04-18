@@ -6,6 +6,10 @@ This is a work in progress.
 
 ### Some of the code you'll find in this repo will help you with :
 
+### Publication -ready PCA analysis plots
+
+![image](Principal_Component_Analysis/p_final.png)
+
 #### Making a beautiful correlation matrix
 
 ![image](correlation_matrix/correlation_plot.png)
