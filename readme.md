@@ -2,7 +2,9 @@
 
 The goal of this repository/project is for other metabolomics and other biological scientists and data-science researchers to find quick solutions for code they might need to carry out various types of data analysis and data visualizations while using R.
 
-This is a work in progress.
+None of these packages are written by me, so a huge thanks to the people who compiled them.
+
+_This is a work in progress._
 
 ### Some of the code you'll find in this repo will help you with :
 
@@ -14,10 +16,14 @@ This is a work in progress.
 
 ![image](anova/anova.png)
 
-#### Making a beautiful correlation matrix
+### Making a beautiful correlation matrix
 
 ![image](correlation_matrix/correlation_plot.png)
 
-#### Making Multi-Level heatmaps
+### PLS-DA and SPLS-DA analysis
+
+![image](PLS-DA/01_PLS-DA.jpeg)
+
+### Making Multi-Level heatmaps
 
 ![image](heatmaps/heatmap_final.png)
