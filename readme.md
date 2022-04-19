@@ -10,6 +10,10 @@ This is a work in progress.
 
 ![image](Principal_Component_Analysis/p_final.png)
 
+### Publication Quality ANOVA tables
+
+![image](anova/anova.png)
+
 #### Making a beautiful correlation matrix
 
 ![image](correlation_matrix/correlation_plot.png)
