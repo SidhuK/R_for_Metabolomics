@@ -27,3 +27,7 @@ _This is a work in progress._
 ### Making Multi-Level heatmaps
 
 ![image](heatmaps/heatmap_final.png)
+
+### K-Means Clustering
+
+![image](K_means/KMeans-02.png)
