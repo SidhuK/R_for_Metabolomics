@@ -31,3 +31,11 @@ _This is a work in progress._
 ### K-Means Clustering
 
 ![image](K_means/KMeans-02.png)
+
+### Cheatsheets for R and different R libraries
+
+_(Credit to various sources)_
+
+Example: GGplot2 elements reference sheet, from Isabella - B
+
+![image](R_cheatsheets/GGPlot-2%20references.png)
